@@ -1,20 +1,9 @@
 # parcial3
-<<<<<<< HEAD
 
-A new Flutter project.
+# CAPTURAS DE PANTALLA
+https://mailutecedusv-my.sharepoint.com/:f:/g/personal/2509252017_mail_utec_edu_sv/El9q-zsmG0ZAunDJT3x0mH0BEQ3NorzQMWn20vQDcC7anw?e=4eOSC4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 desesperación xd
->>>>>>> dc78d5d32d039adfc4923d5550a41c2955264be6
+
+25-0925-2017
+Gabriela Marisol Dominguez H.
